@@ -14,3 +14,7 @@ profitability, length of stay, and department performance using Excel.
 - Data: Patient-level dataset
 - Analysis_Notes: Daily work logs
 - Dashboard: Visual insights
+
+## Day 1 – Data Preparation
+
+[Day 1 Screenshot](Screenshots/Day1_Data_Preparation.png)
