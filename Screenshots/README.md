@@ -13,3 +13,8 @@
 
 ### Screenshot
 [Day 2 Basic Insights](Screenshots/Day2_Basic_Insights.png)
+
+## Day 3 – Pivot Table Analysis
+
+### Disease & Department Analysis
+![Disease Department Pivot](Screenshots/Day3_Disease_Department_Pivot.png)
