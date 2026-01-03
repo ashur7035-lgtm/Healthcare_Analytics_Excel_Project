@@ -1,0 +1,20 @@
+# Day 3 – Pivot Table Analysis
+
+## Objective
+To analyze disease-wise and department-wise performance using pivot tables.
+
+## Analysis Performed
+
+### Pivot 1: Disease-wise Analysis
+- Total patients per disease
+- Total profit generated per disease
+
+### Pivot 2: Department-wise Analysis
+- Average length of stay per department
+- Total revenue per department
+
+## Tools Used
+- Microsoft Excel Pivot Tables
+
+## Outcome
+Identified high-profit diseases and departments with longer patient stays.
