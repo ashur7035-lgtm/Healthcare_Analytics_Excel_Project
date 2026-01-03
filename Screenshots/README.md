@@ -16,5 +16,20 @@
 
 ## Day 3 – Pivot Table Analysis
 
+## Objective
+To analyze healthcare data using pivot tables.
+
+## Analysis Performed
+- Disease-wise patient count and total profit
+- Department-wise average length of stay and total revenue
+
+## Skills Applied
+- Excel Pivot Tables
+- Aggregation & Business Metrics
+
+## Outcome
+Identified high-profit diseases and revenue-generating departments.
+
+
 ### Disease & Department Analysis
-![Disease Department Pivot](Screenshots/Day3_Disease_Department_Pivot.png)
+[Disease Department Pivot](Screenshots/Day3_Disease_Department_Pivot.png)
