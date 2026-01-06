@@ -77,5 +77,13 @@ Provided management-level insights on profitability under varying healthcare con
 [Dashboard with KPIs & Slicers](Screenshots/Day5_Executive_Dashboard.png )
 [Dashboard with KPIs & Slicers](Screenshots/Day5_Slicers_Filter.png )
 
+### Day 6 – Simulation Analysis (Data Tables)
+
+- Built price vs patient count simulation using Excel Data Tables
+- Analyzed profit sensitivity under different pricing and demand scenarios
+- Supported management decision-making through what-if analysis
+
+[Simulation Analysis](Screenshots/Day6_Simulation_Analysis.png)
+
 
 
