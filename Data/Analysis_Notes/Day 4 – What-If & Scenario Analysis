@@ -1,0 +1,22 @@
+## Day 4 – What-If & Scenario Analysis
+
+## Objective
+To evaluate hospital financial performance under different operational scenarios.
+
+## Scenarios Analyzed
+- Normal Load
+- High Patient Inflow
+- Pandemic Surge
+- Cost Inflation
+- Discount Campaign
+
+## Variables Used
+- Average Treatment Cost
+- Patient Count
+- Cost Percentage
+
+## Outcome
+Provided management-level insights on profitability under varying healthcare conditions.
+
+### Screenshot
+[Day 4 Scenario Analysis](Screenshots/Day4_Scenario_Analysis.png)
