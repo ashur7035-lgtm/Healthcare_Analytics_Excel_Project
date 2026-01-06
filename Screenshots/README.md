@@ -57,3 +57,25 @@ Provided management-level insights on profitability under varying healthcare con
 ### Screenshot
 [Day 4 Scenario Analysis](Screenshots/Day4_Scenario_Analysis.png)
 
+## Day 5 – Dashboard (KPIs, Pivot Charts & Slicers)
+
+### Work Done
+- Designed healthcare KPIs for executive reporting
+- Created interactive pivot charts
+- Added slicers for dynamic filtering by:
+  - Disease
+  - Department
+  - Outcome
+
+### Tools & Skills
+- Excel Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
+
+### Screenshot
+[Dashboard with KPIs & Slicers](Screenshots/Day5_Executive_Dashboard.png )
+[Dashboard with KPIs & Slicers](Screenshots/Day5_Slicers_Filter.png )
+
+
+
