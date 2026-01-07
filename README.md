@@ -1,22 +1,28 @@
 # Healthcare Analytics Project (Excel)
 
 ## Objective
-To analyze patient-level healthcare data and generate actionable business insights related to patient volume, revenue, cost, profitability, length of stay, and department-wise performance using Microsoft Excel.
+Analyze patient-level healthcare data to generate business insights on patient volume, revenue, cost, profitability, length of stay, and department performance using Excel.
 
-## Tools & Techniques Used
+## Tools & Skills
 - Microsoft Excel
 - Excel Formulas (SUM, COUNT, AVERAGE, IF)
-- Pivot Tables
-- What-If Analysis (Goal Seek, Scenario Manager, Data Tables)
-- Basic KPI Analysis
-- GitHub (Version Control & Documentation)
+- Pivot Tables & Pivot Charts
+- KPIs & Dashboards
+- Slicers
+- What-If Analysis (Scenario Manager, Data Tables)
+- Business Analytics
 
-## Project Structure
-- Data  
-  Contains the master Excel file with patient-level healthcare data and all analysis sheets.
+## Project Highlights
+- Cleaned and prepared healthcare dataset
+- Built KPIs for hospital performance tracking
+- Performed disease & department-level analysis using pivots
+- Created interactive dashboards with slicers
+- Conducted scenario and simulation analysis for management decisions
 
-- Screenshots  
-  Contains day-wise screenshots of Excel analysis and insights.
+## Folder Structure
+- **Data/** – Excel file with complete analysis
+- **Screenshots/** – Day-wise screenshots
+- **README.md** – Project overview
 
-- README.md  
-  Project overview, methodology, and insights documentation.
+## Outcome
+Delivered management-level insights to support data-driven hospital decision-making.
