@@ -85,5 +85,20 @@ Provided management-level insights on profitability under varying healthcare con
 
 [Simulation Analysis](Screenshots/Day6_Simulation_Analysis.png)
 
+## Day 7 – Executive Summary & Business Recommendations
+
+### Key Business Insights
+- Orthopedics and Cardiology are the highest revenue-generating departments
+- Cancer and Hypertension contribute the highest profits
+- Pandemic surge scenarios significantly increase revenue but reduce margins
+- Discount campaigns increase patient volume but reduce profitability
+
+### Recommendations
+- Focus capacity expansion in high-profit departments
+- Control cost percentage during high patient inflow
+- Avoid aggressive discounting unless volume growth is guaranteed
+
+### Outcome
+Delivered management-ready insights for strategic healthcare decision-making.
 
 
