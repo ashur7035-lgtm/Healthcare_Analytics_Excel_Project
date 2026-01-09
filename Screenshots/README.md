@@ -4,7 +4,7 @@
 - Added derived metrics (Length of Stay, Revenue, Cost, Profit)
 - Performed initial data validation
 
-[Day 1 Screenshot](Day1Preparation.png).
+[Day 1 Screenshot](Day1 Preparation.png).
 
 ## Day 2 – Basic Business Insights
 - Calculated total patients using COUNTA
