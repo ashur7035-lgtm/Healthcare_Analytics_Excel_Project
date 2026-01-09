@@ -4,7 +4,7 @@
 - Added derived metrics (Length of Stay, Revenue, Cost, Profit)
 - Performed initial data validation
 
-[Day 1 Screenshot](Screenshots/Day1_Preparation.png).
+[Day 1 Screenshot](Day1_Preparation.png).
 
 ## Day 2 – Basic Business Insights
 - Calculated total patients using COUNTA
@@ -12,7 +12,7 @@
 - Performed basic healthcare financial analysis
 
 ### Screenshot
-[Day 2 Basic Insights](Screenshots/Day2_Basic_Insights.png)
+[Day 2 Basic Insights](Day2_Basic_Insights.png)
 
 ## Day 3 – Pivot Table Analysis
 
@@ -32,7 +32,7 @@ Identified high-profit diseases and revenue-generating departments.
 
 
 ### Disease & Department Analysis
-[Disease Department Pivot](Screenshots/Day3_Disease_Department_Pivot.png)
+[Disease Department Pivot](Day3_Disease_Department_Pivot.png)
 
 ## Day 4 – What-If & Scenario Analysis
 
@@ -55,7 +55,7 @@ To evaluate hospital financial performance under different operational scenarios
 Provided management-level insights on profitability under varying healthcare conditions.
 
 ### Screenshot
-[Day 4 Scenario Analysis](Screenshots/Day4_Scenario_Analysis.png)
+[Day 4 Scenario Analysis](Day4_Scenario_Analysis.png)
 
 ## Day 5 – Dashboard (KPIs, Pivot Charts & Slicers)
 
@@ -74,8 +74,8 @@ Provided management-level insights on profitability under varying healthcare con
 - Data Visualization
 
 ### Screenshot
-[Dashboard with KPIs & Slicers](Screenshots/Day5_Executive_Dashboard.png )
-[Dashboard with KPIs & Slicers](Screenshots/Day5_Slicers_Filter.png )
+[Dashboard with KPIs & Slicers](Day5_Executive_Dashboard.png )
+[Dashboard with KPIs & Slicers](Day5_Slicers_Filter.png )
 
 ### Day 6 – Simulation Analysis (Data Tables)
 
@@ -83,7 +83,7 @@ Provided management-level insights on profitability under varying healthcare con
 - Analyzed profit sensitivity under different pricing and demand scenarios
 - Supported management decision-making through what-if analysis
 
-[Simulation Analysis](Screenshots/Day6_Simulation_Analysis.png)
+[Simulation Analysis](Day6_Simulation_Analysis.png)
 
 ## Day 7 – Executive Summary & Business Recommendations
 
